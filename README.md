@@ -1,1 +1,3 @@
-# First-Project-1
+# Aydrien Harden First-Project-1
+
+This is my first project
